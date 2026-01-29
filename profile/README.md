@@ -5,5 +5,5 @@ a multi-language software protection kit.
 
 | name      | description  |
 |-----------|--------------|
-| **axis**  | a jvm application protection suite featuring an optimizer, obfuscator, transpiler, virtualizer, and packer. |
-| **abyss** | a x86 asm application protection suite featuring a mutator, a virtualizer & a packer.                       |
+| **axis**  | a JVM application protection suite featuring an optimizer, obfuscator, transpiler, virtualizer, and packer. |
+| **abyss** | a x86_64/AArch64 ASM application protection suite featuring a mutator, a virtualizer & a packer.            |
